@@ -22,7 +22,7 @@ Deploy your subnet locally to test it:
 ![Screenshot 2024-07-14 224051](https://github.com/user-attachments/assets/a27b54f4-a726-463b-984c-d2f914149418)
 
 
-![Screenshot 2024-07-14 224105](https://github.com/user-attachments/assets/2b929656-daa1-4a52-9b13-cd45f44b0232)
+![Screenshot 2024-07-14 224105](https://github.com/user-attachments/assets/612fb568-c34a-44e4-a2f9-1a8834ee7ac8)
 
 ## Step 2:Add your Subnet to Metamask
 
