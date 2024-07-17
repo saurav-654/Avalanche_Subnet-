@@ -42,7 +42,7 @@ To configure MetaMask to connect to your subnet:
   Use the Injected Provider
   ![image](https://github.com/user-attachments/assets/f2960aa0-8da3-413c-8ecd-be8ff1cd1413)
 ## Step 4: Deploy the smart-contracts
-here are transaction done through this smart contract 
+here are transaction done through this subnet network
 
   ![image](https://github.com/user-attachments/assets/82df3337-db1e-4fe5-8dc4-bcd977f3e6fb)
 
