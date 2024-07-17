@@ -34,5 +34,15 @@ To configure MetaMask to connect to your subnet:
      * RPC URL: The RPC URL provided during the deployment process
      * Chain ID: The chain ID of your subnet
      * Currency Symbol: AVAX (or your custom token symbol)
-## Connect Remix to your Metamask
+ 
+  ![image](https://github.com/user-attachments/assets/518aa472-3d77-4659-82b8-3dd11ec4f8ce)
+
+       
+## Step 3: Connect Remix to your Metamask
   Use the Injected Provider
+  ![image](https://github.com/user-attachments/assets/f2960aa0-8da3-413c-8ecd-be8ff1cd1413)
+## Step 4: Deploy the smart-contracts
+here are transaction done through this smart contract 
+
+  ![image](https://github.com/user-attachments/assets/82df3337-db1e-4fe5-8dc4-bcd977f3e6fb)
+
